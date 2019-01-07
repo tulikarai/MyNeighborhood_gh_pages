@@ -1,3 +1,4 @@
+
 # Neighborhood Map(React) Project
 
 This is one of my Front End Web Developer NanoDegree Project of Udacity in React.
@@ -8,7 +9,9 @@ For Deployment detail please check the link : https://facebook.github.io/create-
 ## Overview
 This is a single page responsive web site that uses a Map API (like Google Maps API) and another venues type of API [like FourSquare API] to show locations on a map via markers with a filterable list of those locations. I have followed Udacity Project Rubric for specific requirements. This project uses React, Google Maps, and [Foursquare API](https://developer.foursquare.com/) to present a map and markers of places to show the Elementary Schools in Englewood, CO.
 
-![Alt text](./src/HomePage.png?raw=true "My Neighborhood Map")
+[check the project Live ](https://tulikarai.github.io/MyNeighborhood_gh_pages/)
+
+![homepage](https://user-images.githubusercontent.com/31152446/50753891-dee77c00-1210-11e9-96a1-b07a64a568e8.PNG)
 
 ## Installation
 In order to install and use this project you must run two commands in the terminal.
